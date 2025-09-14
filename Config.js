@@ -1,6 +1,6 @@
 module.exports = {
     // Botu Kullanmadan README.md dosyasını okuyun!
-    Token: "",
+    Token: "MTQxNjc1NjUzNzczMjYzMjYzNw.GkCcH_.dQt8tjhyeT9NaSXubMsLxs3I-8lCW74HqR1i24",
     SahipID: "",
     Prefix: "",
 
@@ -8,3 +8,4 @@ module.exports = {
     ReklamSunucuLink: ""
     // Botu Kullanmadan README.md dosyasını okuyun!
 }
+
